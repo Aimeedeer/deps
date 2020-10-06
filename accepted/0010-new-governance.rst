@@ -38,6 +38,10 @@ individuals who have previously made significant contributions to
 Django. A Django Core Developer will not have any type of automatic
 governance, oversight, or code-committing privileges.
 
+In addition, a Triage & Review Team will be created in order to grant
+regular contributors additional privileges in order to assist pull
+request review.
+
 
 How will code get added to Django?
 ----------------------------------
@@ -243,6 +247,8 @@ The following new roles are added:
 
 * Releaser
 
+* Triage & Review Team
+
 The following roles are repurposed:
 
 * Django Core Developer
@@ -299,6 +305,27 @@ It SHALL NOT be a requirement that a Releaser also be a Django Fellow,
 but the Django Software Foundation SHALL have the power to use funding
 of Fellow positions as a way to make the role of Releaser sustainable.
 
+New role: Triage & Review Team
+------------------------------
+
+Triage & Review Team allows current, regular contributors raised
+permissions on GitHub, in order to assist in triage and review of pull
+requests.
+
+The objective of the team is to spread work beyond the Mergers, and be
+open and accessible to new contributors that have spent some time
+contributing development discussions.
+
+* Members will be chosen from those actively engaging in discussions on
+  GitHub and django-developers. Membership will be reviewed each major
+  release, with members asked if they wish to continue.
+
+* There will be a GitHub Team with GitHub's Triage Permission to allow
+  members to help managed pull requests directly.
+
+* Approval from a member of the Triage and Review team will be
+  sufficient to allow a Merger to merge a change they themselves have
+  proposed.
 
 Repurposed role: Technical Board
 --------------------------------
@@ -359,7 +386,7 @@ demonstrate:
 * A history of participation in Django's development outside of
   contributions merged to the <https://github.com/django/django/>
   repository. This may include, but is not restricted to:
-  
+
   * Participation in discussions on the django-developers mailing list
     or Django Forum.
 
