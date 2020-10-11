@@ -324,8 +324,8 @@ contributing development discussions.
   members to help managed pull requests directly.
 
 * Approval from a member of the Triage and Review team will be
-  sufficient to allow a Merger to merge a change they themselves have
-  proposed.
+  sufficient to allow a Merger to merge a minor change they themselves
+   have proposed.
 
 Repurposed role: Technical Board
 --------------------------------
