@@ -321,7 +321,7 @@ contributing development discussions.
   release, with members asked if they wish to continue.
 
 * There will be a GitHub Team with GitHub's Triage Permission to allow
-  members to help managed pull requests directly.
+  members to help manage pull requests directly.
 
 * Approval from a member of the Triage and Review team will be
   sufficient to allow a Merger to merge a minor change they themselves
